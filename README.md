@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshfaqHassan. I have learn Photoshop, Illustrator, Php, Javascript, CSS and WordPress.
+- 👋 Hi, I’m @AshfaqHassan. I have learnt Photoshop, Illustrator, Php, Javascript, CSS and WordPress.
 - 👀 I’m interested to learn and practice to become profeciant in web developement.
 - 🌱 I’m currently working as a freelancer.
 - 📫 You can find me on whatsapp +923073325488
